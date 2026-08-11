@@ -1,0 +1,51 @@
+state_id,state_name,country
+1,Alabama,USA
+2,Alaska,USA
+3,Arizona,USA
+4,Arkansas,USA
+5,California,USA
+6,Colorado,USA
+7,Connecticut,USA
+8,Delaware,USA
+9,Florida,USA
+10,Georgia,USA
+11,Hawaii,USA
+12,Idaho,USA
+13,Illinois,USA
+14,Indiana,USA
+15,Iowa,USA
+16,Kansas,USA
+17,Kentucky,USA
+18,Louisiana,USA
+19,Maine,USA
+20,Maryland,USA
+21,Massachusetts,USA
+22,Michigan,USA
+23,Minnesota,USA
+24,Mississippi,USA
+25,Missouri,USA
+26,Montana,USA
+27,Nebraska,USA
+28,Nevada,USA
+29,New Hampshire,USA
+30,New Jersey,USA
+31,New Mexico,USA
+32,New York,USA
+33,North Carolina,USA
+34,North Dakota,USA
+35,Ohio,USA
+36,Oklahoma,USA
+37,Oregon,USA
+38,Pennsylvania,USA
+39,Rhode Island,USA
+40,South Carolina,USA
+41,South Dakota,USA
+42,Tennessee,USA
+43,Texas,USA
+44,Utah,USA
+45,Vermont,USA
+46,Virginia,USA
+47,Washington,USA
+48,West Virginia,USA
+49,Wisconsin,USA
+50,Wyoming,USA
